@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-mood-selector/static/css/main.19c2bc5b.css",
+    "main.js": "/react-mood-selector/static/js/main.8f4fd2ed.js",
+    "static/js/453.41a43ade.chunk.js": "/react-mood-selector/static/js/453.41a43ade.chunk.js",
+    "index.html": "/react-mood-selector/index.html",
+    "main.19c2bc5b.css.map": "/react-mood-selector/static/css/main.19c2bc5b.css.map",
+    "main.8f4fd2ed.js.map": "/react-mood-selector/static/js/main.8f4fd2ed.js.map",
+    "453.41a43ade.chunk.js.map": "/react-mood-selector/static/js/453.41a43ade.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19c2bc5b.css",
+    "static/js/main.8f4fd2ed.js"
+  ]
+}
